@@ -1,0 +1,103 @@
+
+p, span{
+    color: rgb(11, 11, 11);
+    width: 300px;
+    margin-left: 100px;
+    font-size: medium;
+}
+
+li {
+    color: rgb(11, 11, 11);
+    width: 300px;
+    margin-left: 100px;
+    font-size: medium;
+}
+
+#div-principal {
+    display: flex;
+}
+
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif ;
+        border: 1px solid rgb(255, 255, 255);  
+        color: rgb(132, 0, 255);
+        padding: 40px 20px 15px 10px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 540px;
+        margin-right: 10px;
+        font-weight: bold;
+        font-size: 350%;
+    
+    
+}
+
+img {
+    margin-top: 20px;
+    margin-left: 150px ;
+    background: #fff;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+    margin-bottom: 30px;
+    border: 1px solid rgba(0,0,0,.25);
+}
+
+hr {
+    width: 250px;
+    border: 8px solid rgb(179, 5, 254);
+    padding: px;
+    margin: 100px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif ;
+        border: 1px  rgb(255, 255, 255);  
+        color: rgb(16, 16, 16);
+        padding: 40px 20px 15px 10px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin-left: 550px;
+        margin-right: 10px;
+        font-weight: bold;
+        font-size: 150%;
+        
+}
+
+#titulo_experiencia {
+    margin-top: px;
+    width: 450px;
+    margin-right: 50px;
+    color: rgb(10, 10, 10);
+    font-size: 30px;
+    border: px  rgb(249, 247, 244);
+    background-color: rgb(244, 224, 198);
+    font-weight: bold;
+}
+
+body {background-color: rgb(244, 224, 198);}
+
+ 
+#demo {
+    margin-left: 140px;
+    font-weight: bolder;
+    font-size: large;
+    font-style: oblique;
+}
+
+.boton {
+    margin-left: 160px;
+    background-color: aqua;
+    padding: 15px 30px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+
+    
+    
